@@ -12,5 +12,5 @@ Python · SQL · Power BI · Tableau · Java · Kotlin · Django · Neo4j · Rea
 ## 📊 Featured projects
 
 - **Retail Sales Analytics** — Cleaned 1.04M transactions in Python; SQL (DuckDB) KPIs, RFM and cancellation analysis; Power BI dashboard. Key finding: the UK drives 85.2% of £20.97M revenue.
-- **Agentic AI capstone** — Django backend with OpenAlex + DBpedia data providers, as the stage before a knowledge graph.
+- **Agentic AI project** — Django backend
 - **GISmart** 

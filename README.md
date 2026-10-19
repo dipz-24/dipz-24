@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dipti Mudaliar 👋
 
-<!--
-**dipz-24/dipz-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Toronto, Canada
+🎯 Data Analyst / BI Analyst — also open to technical & client support roles
 
-Here are some ideas to get you started:
+5+ years in customer and technical support (Vodafone, CallHippo, Freedom Mobile), now pivoting into data. Postgrad in IT Solutions from Humber College.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+
+Python · SQL · Power BI · Tableau · Java · Kotlin · Django · Neo4j · React · Next.js · Angular
+
+## 📊 Featured projects
+
+- **Retail Sales Analytics** — Cleaned 1.04M transactions in Python; SQL (DuckDB) KPIs, RFM and cancellation analysis; Power BI dashboard. Key finding: the UK drives 85.2% of £20.97M revenue.
+- **Agentic AI capstone** — Django backend with OpenAlex + DBpedia data providers, as the stage before a knowledge graph.
+- **GISmart** 

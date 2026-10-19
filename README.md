@@ -1,4 +1,4 @@
-# Hi, I'm Dipti Mudaliar 👋
+# Hi, I'm Dipti Mudaliar
 
 📍 Toronto, Canada
 🎯 Data Analyst / BI Analyst — also open to technical & client support roles
